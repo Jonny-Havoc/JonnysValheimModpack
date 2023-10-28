@@ -1,7 +1,7 @@
 # JonnysValheimModpack
 Valheim modpack for playing on the Wigwam Server
 
-#How To Install 
+# How To Install 
 
 - If you have an older version of the modpack, first navigate to SteamLibrary/steamapps/common/valheim and delete the folder BepInEx 
 - Then, download latest release, and extract zip contents to SteamLibrary/steamapps/common/valheim
