@@ -15,7 +15,6 @@ Valheim modpack for playing on the Wigwam Server
   Credits due to mod developers
   ValheimPlus https://www.nexusmods.com/valheim/mods/4
   BepinEx https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/
-
 </sub>
  
 
